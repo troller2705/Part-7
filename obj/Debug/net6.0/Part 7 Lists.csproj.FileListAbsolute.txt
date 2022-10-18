@@ -1,0 +1,15 @@
+D:\ICS4U\Part 7 Lists\bin\Debug\net6.0\Part 7 Lists.exe
+D:\ICS4U\Part 7 Lists\bin\Debug\net6.0\Part 7 Lists.deps.json
+D:\ICS4U\Part 7 Lists\bin\Debug\net6.0\Part 7 Lists.runtimeconfig.json
+D:\ICS4U\Part 7 Lists\bin\Debug\net6.0\Part 7 Lists.dll
+D:\ICS4U\Part 7 Lists\bin\Debug\net6.0\Part 7 Lists.pdb
+D:\ICS4U\Part 7 Lists\obj\Debug\net6.0\Part 7 Lists.csproj.AssemblyReference.cache
+D:\ICS4U\Part 7 Lists\obj\Debug\net6.0\Part 7 Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\ICS4U\Part 7 Lists\obj\Debug\net6.0\Part 7 Lists.AssemblyInfoInputs.cache
+D:\ICS4U\Part 7 Lists\obj\Debug\net6.0\Part 7 Lists.AssemblyInfo.cs
+D:\ICS4U\Part 7 Lists\obj\Debug\net6.0\Part 7 Lists.csproj.CoreCompileInputs.cache
+D:\ICS4U\Part 7 Lists\obj\Debug\net6.0\Part 7 Lists.dll
+D:\ICS4U\Part 7 Lists\obj\Debug\net6.0\refint\Part 7 Lists.dll
+D:\ICS4U\Part 7 Lists\obj\Debug\net6.0\Part 7 Lists.pdb
+D:\ICS4U\Part 7 Lists\obj\Debug\net6.0\Part 7 Lists.genruntimeconfig.cache
+D:\ICS4U\Part 7 Lists\obj\Debug\net6.0\ref\Part 7 Lists.dll
